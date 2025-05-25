@@ -28,5 +28,5 @@ Kindly ignore the other folders.....!!
 
 * In the Settings menu, there is a working volume slider that can be dragged to increase or decrease the music volume (drag it from the bottom part of the handle).
 
-* The Start button takes you to an empty map just to show an exaple of a sene changing UI button so PRESS IT ONLY WHEN you are done viewing everything.
+* The Start button takes you to an empty map just to show an example of a scene changing UI button so PRESS IT ONLY WHEN you are done viewing everything.
 
